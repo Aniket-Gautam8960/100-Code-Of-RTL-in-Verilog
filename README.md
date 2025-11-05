@@ -11,3 +11,5 @@ Day: 5-> Universal Logic Gates using Switch Level Modeling
 Day: 6-> Even Parity Generator and Checker
 
 Day: 7-> Half Adder & Full Adder
+
+Day: 8-> Half Subtractor & Full Subtractor
