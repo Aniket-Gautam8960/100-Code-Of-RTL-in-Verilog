@@ -9,3 +9,5 @@ Day: 4-> Switch Level Modeling Style
 Day: 5-> Universal Logic Gates using Switch Level Modeling
 
 Day: 6-> Even Parity Generator and Checker
+
+Day: 7-> Half Adder & Full Adder
