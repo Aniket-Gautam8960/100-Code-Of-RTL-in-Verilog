@@ -13,3 +13,5 @@ Day: 6-> Even Parity Generator and Checker
 Day: 7-> Half Adder & Full Adder
 
 Day: 8-> Half Subtractor & Full Subtractor
+
+Day: 9-> Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gate
