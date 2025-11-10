@@ -19,3 +19,5 @@ Day: 9-> Half Adder, Full Adder, Half Subtractor, Full Subtractor using Nand Gat
 Day: 10-> 4 bit Parallel Adder
 
 Day: 11-> 4 bit Adder cum Subtractor
+
+Day: 12-> Carry Look Ahead Generator
