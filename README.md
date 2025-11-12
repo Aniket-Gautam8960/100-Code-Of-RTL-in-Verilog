@@ -23,3 +23,9 @@ Day: 11-> 4 bit Adder cum Subtractor
 Day: 12-> Carry Look Ahead Generator
 
 Day: 13-> Carry Select Adder
+
+Day: 14-> Carry Skip Adder
+
+Day: 15-> 4 bit Multiplier
+
+Day: 16-> 4 bit Divider
