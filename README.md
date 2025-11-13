@@ -29,3 +29,8 @@ Day: 14-> Carry Skip Adder
 Day: 15-> 4 bit Multiplier
 
 Day: 16-> 4 bit Divider
+
+Day: 17-> N bit Comparator
+
+Day: 18-> Multiplexer [2:1]
+
