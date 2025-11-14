@@ -34,3 +34,8 @@ Day: 17-> N bit Comparator
 
 Day: 18-> Multiplexer [2:1]
 
+Day: 19-> [4:1] Mux using [2:1]
+
+Day: 20-> Basic Logic Gates using Mux
+
+
