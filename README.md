@@ -38,4 +38,8 @@ Day: 19-> [4:1] Mux using [2:1]
 
 Day: 20-> Basic Logic Gates using Mux
 
+Day: 21-> Universal Logic Gates using Mux
+
+Day: 22-> Special Logic Gates using Mux
+
 
