@@ -38,6 +38,11 @@ Day: 19-> [4:1] Mux using [2:1]
 
 Day: 20-> Basic Logic Gates using Mux
 
+Day: 23-> Full Adder using Mux
+
+Day: 24-> DeMultiplexer [1:2]
+
+
 Day: 21-> Universal Logic Gates using Mux
 
 Day: 22-> Special Logic Gates using Mux
