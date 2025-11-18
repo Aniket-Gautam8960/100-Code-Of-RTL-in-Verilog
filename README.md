@@ -49,3 +49,7 @@ Day: 24-> DeMultiplexer [1:2]
 Day: 25-> DeMultiplexer[1:8] using [1:2]
 
 Day: 26-> Basic Logic Gates using Dmux
+
+Day: 27-> Universal Logic Gates using Dmux
+
+Day: 28-> Special Logic Gates using Dmux
