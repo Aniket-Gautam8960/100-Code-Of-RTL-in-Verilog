@@ -55,3 +55,8 @@ Day: 27-> Universal Logic Gates using Dmux
 Day: 28-> Special Logic Gates using Dmux
 
 Day: 29-> Encoder [8:3]
+
+Day: 30-> Priority Encoder
+
+Day: 31-> Decoder [3:8]
+
