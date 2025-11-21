@@ -60,3 +60,6 @@ Day: 30-> Priority Encoder
 
 Day: 31-> Decoder [3:8]
 
+Day: 32-> Basic Logic Gates using Decoder
+
+
