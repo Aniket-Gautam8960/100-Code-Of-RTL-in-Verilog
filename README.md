@@ -62,4 +62,6 @@ Day: 31-> Decoder [3:8]
 
 Day: 32-> Basic Logic Gates using Decoder
 
+Day: 33-> Universal Logic Gates using Decoder
+
 
