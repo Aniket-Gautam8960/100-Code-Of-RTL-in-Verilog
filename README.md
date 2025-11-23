@@ -64,4 +64,4 @@ Day: 32-> Basic Logic Gates using Decoder
 
 Day: 33-> Universal Logic Gates using Decoder
 
-
+Day: 34-> Special Logic Gates using Decoder
