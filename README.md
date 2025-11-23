@@ -65,3 +65,5 @@ Day: 32-> Basic Logic Gates using Decoder
 Day: 33-> Universal Logic Gates using Decoder
 
 Day: 34-> Special Logic Gates using Decoder
+
+Day: 35-> N bit number Square [N -> N^2]
