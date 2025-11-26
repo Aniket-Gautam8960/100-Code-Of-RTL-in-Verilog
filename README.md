@@ -71,3 +71,5 @@ Day: 35-> N bit number Square [N -> N^2]
 Day: 36-> Input Majority Circuit [7 input]
 
 Day: 37-> Binary to Gray code Converter
+
+Day: 38-> Gray code to Binary Converter
