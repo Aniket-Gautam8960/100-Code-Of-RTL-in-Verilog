@@ -75,3 +75,5 @@ Day: 37-> Binary to Gray code Converter
 Day: 38-> Gray code to Binary Converter
 
 Day: 39-> Binary to 2's Complement Converter
+
+Day: 40-> Binary to BCD Converter
