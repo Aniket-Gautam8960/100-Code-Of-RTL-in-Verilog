@@ -79,3 +79,5 @@ Day: 39-> Binary to 2's Complement Converter
 Day: 40-> Binary to BCD Converter
 
 Day: 41-> BCD to Excess-3 code Converter
+
+Day: 42-> BCD to 7-Segment Converter
