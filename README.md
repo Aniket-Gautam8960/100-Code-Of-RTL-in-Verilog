@@ -81,3 +81,5 @@ Day: 40-> Binary to BCD Converter
 Day: 41-> BCD to Excess-3 code Converter
 
 Day: 42-> BCD to 7-Segment Converter
+
+Day: 43-> Booth's Multiplication Algorithm
