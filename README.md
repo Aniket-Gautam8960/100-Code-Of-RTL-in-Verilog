@@ -85,3 +85,5 @@ Day: 42-> BCD to 7-Segment Converter
 Day: 43-> Booth's Multiplication Algorithm
 
 Day: 44-> Vedic Multiplier [2×2]
+
+Day: 45-> Vedic Multiplier [4×4] using [2×2]
