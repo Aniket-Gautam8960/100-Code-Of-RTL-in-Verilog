@@ -89,3 +89,11 @@ Day: 44-> Vedic Multiplier [2×2]
 Day: 45-> Vedic Multiplier [4×4] using [2×2]
 
 Day: 46-> Asynchronous and Synchronous Reset
+
+Day: 47-> SR Latch
+
+Day: 48-> JK Flip Flop
+
+Day: 49-> D Flip Flop
+
+Day: 50-> T Flip Flop
