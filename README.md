@@ -103,3 +103,8 @@ Day: 51-> SR flip flop using JK, D, T flip flops
 Day: 52-> JK flip flop using SR, D, T flip flops
 
 Day: 53-> D flip flop using SR, JK, T flip flops
+
+Day: 54-> T flip flop using SR, JK, D flip flops
+
+Day: 55-> Dual Edge Triggered Flip Flop
+
