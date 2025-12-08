@@ -111,3 +111,5 @@ Day: 55-> Dual Edge Triggered Flip Flop
 Day: 56-> Serial in Serial out (SISO) Register
 
 Day: 57-> Serial in Parallel out (SIPO) Register
+
+Day: 58-> Parallel in Serial out (PISO) Register
