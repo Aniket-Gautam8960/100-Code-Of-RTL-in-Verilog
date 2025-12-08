@@ -108,3 +108,6 @@ Day: 54-> T flip flop using SR, JK, D flip flops
 
 Day: 55-> Dual Edge Triggered Flip Flop
 
+Day: 56-> Serial in Serial out (SISO) Register
+
+Day: 57-> Serial in Parallel out (SIPO) Register
