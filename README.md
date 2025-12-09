@@ -113,3 +113,8 @@ Day: 56-> Serial in Serial out (SISO) Register
 Day: 57-> Serial in Parallel out (SIPO) Register
 
 Day: 58-> Parallel in Serial out (PISO) Register
+
+Day: 59-> Parallel in Parallel out (PIPO) Register
+
+Day: 60-> Linear Feedback Shift Register (LFSR)
+
