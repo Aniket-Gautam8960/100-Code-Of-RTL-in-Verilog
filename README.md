@@ -118,3 +118,10 @@ Day: 59-> Parallel in Parallel out (PIPO) Register
 
 Day: 60-> Linear Feedback Shift Register (LFSR)
 
+Day: 61-> Universal Shift Register
+
+Day: 62-> Barrel Shifter
+
+Day: 63-> Mod-N Counter
+
+
