@@ -124,4 +124,7 @@ Day: 62-> Barrel Shifter
 
 Day: 63-> Mod-N Counter
 
+Day: 64-> Specific Sequence Counter
+
+Day: 65-> Up/Down Counter
 
