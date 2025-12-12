@@ -128,3 +128,6 @@ Day: 64-> Specific Sequence Counter
 
 Day: 65-> Up/Down Counter
 
+Day: 66-> Ring Counter
+
+Day: 67-> Johnson Couter
