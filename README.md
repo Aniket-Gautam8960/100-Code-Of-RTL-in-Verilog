@@ -131,3 +131,9 @@ Day: 65-> Up/Down Counter
 Day: 66-> Ring Counter
 
 Day: 67-> Johnson Couter
+
+Day: 68-> Gray Counter
+
+Day: 69-> Clock Phasing
+
+Day: 70-> Clock Edge Detector
