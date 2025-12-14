@@ -137,3 +137,8 @@ Day: 68-> Gray Counter
 Day: 69-> Clock Phasing
 
 Day: 70-> Clock Edge Detector
+
+Day: 71-> Frequency Divider {even}
+
+Day: 72-> Frequency Divider {odd}
+
