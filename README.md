@@ -142,3 +142,9 @@ Day: 71-> Frequency Divider {even}
 
 Day: 72-> Frequency Divider {odd}
 
+Day: 73-> Frequency Divider {decimal}
+
+Day: 74-> One-HOT FSM(finite state machine)
+
+Day: 75-> FSM Mealy_Overlapping
+
