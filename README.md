@@ -148,3 +148,7 @@ Day: 74-> One-HOT FSM(finite state machine)
 
 Day: 75-> FSM Mealy_Overlapping
 
+Day: 76-> FSM Mealy_Non-Overlapping
+
+Day: 77-> FSM Moore_Overlapping
+
