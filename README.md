@@ -152,3 +152,8 @@ Day: 76-> FSM Mealy_Non-Overlapping
 
 Day: 77-> FSM Moore_Overlapping
 
+Day: 78-> FSM Moore_Non-Overlapping
+
+Day: 79-> Two sequence detector using FSM
+
+Day: 80-> Single Port RAM
