@@ -157,3 +157,7 @@ Day: 78-> FSM Moore_Non-Overlapping
 Day: 79-> Two sequence detector using FSM
 
 Day: 80-> Single Port RAM
+
+Day: 81-> Dual Port RAM
+
+Day: 82-> ROM [15*15]
