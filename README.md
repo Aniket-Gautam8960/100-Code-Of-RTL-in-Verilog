@@ -161,3 +161,7 @@ Day: 80-> Single Port RAM
 Day: 81-> Dual Port RAM
 
 Day: 82-> ROM [15*15]
+
+Day: 83-> Arithmetic Logic Unit (ALU)
+
+Day: 84-> Checking if Number is an Even or Odd Number
