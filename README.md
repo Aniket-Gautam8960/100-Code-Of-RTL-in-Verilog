@@ -165,3 +165,5 @@ Day: 82-> ROM [15*15]
 Day: 83-> Arithmetic Logic Unit (ALU)
 
 Day: 84-> Checking if Number is an Even or Odd Number
+
+Day: 85-> Checking if Number is a Prime Number
