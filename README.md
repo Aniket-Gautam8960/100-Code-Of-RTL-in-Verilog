@@ -167,3 +167,8 @@ Day: 83-> Arithmetic Logic Unit (ALU)
 Day: 84-> Checking if Number is an Even or Odd Number
 
 Day: 85-> Checking if Number is a Prime Number
+
+Day: 86-> Checking if Number is a Pallindrome Number
+
+Day: 87-> Checking if Number is an Armstrong Number
+
