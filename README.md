@@ -172,3 +172,8 @@ Day: 86-> Checking if Number is a Pallindrome Number
 
 Day: 87-> Checking if Number is an Armstrong Number
 
+Day: 88-> Factorial of a Number
+
+Day: 89-> Square Root and Cube Root of a Number
+
+
