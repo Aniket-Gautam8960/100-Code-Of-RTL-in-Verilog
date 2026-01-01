@@ -176,4 +176,8 @@ Day: 88-> Factorial of a Number
 
 Day: 89-> Square Root and Cube Root of a Number
 
+Day: 90-> Trafic Light Controller via FSM
+
+Day: 91-> Printing Star and Number Patterns
+
 
