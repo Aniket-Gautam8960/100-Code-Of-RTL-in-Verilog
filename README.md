@@ -180,4 +180,8 @@ Day: 90-> Trafic Light Controller via FSM
 
 Day: 91-> Printing Star and Number Patterns
 
+Day: 92-> Highest Common Factor (HCF)
+
+Day: 93-> Synchronous FIFO(First In First Out)
+
 
