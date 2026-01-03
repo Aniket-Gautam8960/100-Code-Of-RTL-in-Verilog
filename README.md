@@ -184,4 +184,9 @@ Day: 92-> Highest Common Factor (HCF)
 
 Day: 93-> Synchronous FIFO(First In First Out)
 
+Day: 94-> Synchronous LIFO(Last In First Out)
+
+Day: 95-> PWM (Pulse Width Modulation)
+
+
 
