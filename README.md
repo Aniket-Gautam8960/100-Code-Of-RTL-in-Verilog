@@ -188,5 +188,10 @@ Day: 94-> Synchronous LIFO(Last In First Out)
 
 Day: 95-> PWM (Pulse Width Modulation)
 
+Day: 96-> Vending Machine
+
+Day: 97-> Car Parking Management System
+
+
 
 
