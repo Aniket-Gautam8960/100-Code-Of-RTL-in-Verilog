@@ -1,4 +1,6 @@
 Hi 👋,
+
+
 I’m Aniket Gautam, an aspiring VLSI engineer with a strong interest in RTL design using Verilog HDL 🎯. I am currently building a solid foundation in digital design and hardware description languages with a clear, structured learning approach.
 
 My objective is to gain hands-on proficiency in RTL design within 100 days, using the Xilinx Vivado 2022.2 Design Suite 🚀 for synthesis, simulation, and verification 👨🏼‍💻. Through this tool, I actively work on developing and validating digital circuits aimed at FPGA and ASIC applications.
