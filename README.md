@@ -192,6 +192,9 @@ Day: 96-> Vending Machine
 
 Day: 97-> Car Parking Management System
 
+Day: 98-> Sine Wave Generator
 
+Day: 99-> Error Detection and Correction using Hamming Code Technique
 
+Day: 100-> Serial Port Interface (SPI)
 
