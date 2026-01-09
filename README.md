@@ -7,7 +7,9 @@ My objective is to gain hands-on proficiency in RTL design within 100 days, usin
 
 I am highly motivated, detail-oriented, and passionate about hardware design. This journey is helping me develop industry-relevant skills that I aim to apply to solving real-world engineering problems and contributing meaningfully to the semiconductor domain 💪🏼✨.
 
-Here is the list of Day wise RTL Codes:-
+Here is the list of Day wise RTL Codes:-----
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
